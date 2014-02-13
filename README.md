@@ -1,7 +1,7 @@
 PHP Localhost
 =============
 
-This is a experimental project to make yout localhost php page(the subfolders tree) more easy to use and spend my time.
+This is a experimental project to make your localhost php page(the subfolders tree) more easy to use and spend my time.
 
 Why this is better then the just subfolder tree:
 
